@@ -1,5 +1,4 @@
-<h1 align="center">
-<b>  ANSHUL
+
 - 👋 Hi, I’m Anshul
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning web development and coding some art and French 
