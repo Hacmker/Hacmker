@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-<center>
 <head>
     <meta charset="UTF-8">
-    <
 </head>
- <h1>I AM ANSHUL A LEARNER FROM INDIA❄️</h1> 
-[[!telegram.me/Xanshul]<img src="https://th.bing.com/th/id/OIP.R4I8AbLlg7MUpWEEphj7qgHaHa?pid=ImgDet&rs=1" alt="AK">]
+ <h1 align="center"><b>I AM ANSHUL A LEARNER FROM INDIA❄️</b></h1>
+[[!Anshul](https://th.bing.com/th/id/OIP.R4I8AbLlg7MUpWEEphj7qgHaHa?pid=ImgDet&rs=1)](https://telegram.me/Xanshul)
 <hr size="3" noshade color="red">
-</center>
 <body>
     <ul>
         <li>Hi i am Anshul a leaner from India🪷</li>
