@@ -7,6 +7,7 @@
 <h2 aligen="center"><a href="https://telegram.me/Xanshul"> <img src="https://graph.org/file/8d2036d4b924d60780d40.png" </a> </h2>
 <hr size="3" noshade color="red//">
 <body>
+    <h2 aligen="center"><b>ABOUT ME🪷</b> </h2>
     <ul>
         <li>Hi i am Anshul a learner from India🪷</li>
         <li>i love maths and coding❤️‍🔥</li>
