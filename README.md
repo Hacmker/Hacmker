@@ -4,11 +4,13 @@
     <meta charset="UTF-8">
 
 </head>
-<center><h1>I AM ANSHUL A LEARNER FROM INDIA❄️</h1>
-<hr size="3"color=red>
+<center>
+    <h1>I AM ANSHUL A LEARNER FROM INDIA❄️</h1>
+</center>
+<hr size="3" color=red >
 <body>
     <ul>
-        <li>Hi i am Anshul a leaner from India🪷</li>
+        <li>Hi i am Anshul from India🪷</li>
         <li>i love maths and coding❤️‍🔥</li>
         <li>tg = <a href="t.me/Xanshul">Anshul tg</a></li>
         <li>Drop you query i will reply soon as possible🐸
