@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
 </head>
  <h1 align="center"><b>I AM ANSHUL A LEARNER FROM INDIA❄️</b></h1>
-<a href="https://telegram.me/Xanshul"></https://graph.org/file/8d2036d4b924d60780d40.png>
+<a href="https://telegram.me/Xanshul" alt = https://graph.org/file/8d2036d4b924d60780d40.png>
 <hr size="3" noshade color="red//">
 <body>
     <ul>
@@ -12,8 +12,6 @@
         <li>i love maths and coding❤️‍🔥</li>
         <li>tg = <a href="https://telegram.me/Xanshul">Anshul tg</a></li>
         <li>Drop you query i will reply soon as possible🐸
-    
-    </ul>
 </body>
 </html>   
 <!---
