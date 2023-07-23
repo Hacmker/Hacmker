@@ -1,4 +1,5 @@
-
+<center><h1>I AM A LEARNER FROM INDIA❤️‍🔥</h1></center>
+<hr size="2" color=red>
 - 👋 Hi, I’m Anshul
 - 👀 I’m interested in learning 
 - 🌱 I’m currently learning web development and coding some art and French 
