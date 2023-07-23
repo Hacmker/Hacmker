@@ -2,10 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    
-    <title>Anshul</title>
+
 </head>
-<center><h1>I AM ANSHUL A LEARNER FROM INDIA❄️</h1></center>
+<center><h1>I AM ANSHUL A LEARNER FROM INDIA❄️</h1>
 <hr size="3"color=red>
 <body>
     <ul>
