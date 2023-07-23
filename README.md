@@ -4,10 +4,10 @@
     <meta charset="UTF-8">
 </head>
  <h1 align="center"><b>I AM ANSHUL A LEARNER FROM INDIA❄️</b></h1>
-<h2 aligen="center"><a href="https://telegram.me/Xanshul"> <img src="https://graph.org/file/8d2036d4b924d60780d40.png" </a> </h2>
+<h2 align="center"><a href="https://telegram.me/Xanshul"> <img src="https://graph.org/file/8d2036d4b924d60780d40.png" </a> </h2>
 <hr size="3" noshade color="red//">
 <body>
-    <h2 aligen="center"><b>ABOUT ME🪷</b> </h2>
+    <h2 align="center"><b>ABOUT ME🪷</b> </h2>
     <ul>
         <li>Hi i am Anshul a learner from India🪷</li>
         <li>i love maths and coding❤️‍🔥</li>
