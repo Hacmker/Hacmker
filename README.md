@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
 </head>
  <h1 align="center"><b>I AM ANSHUL A LEARNER FROM INDIA❄️</b></h1>
-[![(https://graph.org/file/8d2036d4b924d60780d40.png)](https://telegram.me/Xanshul)]
-<hr size="3" noshade color="red">
+[[!https://telegram.me/Xanshul]<img src="https://graph.org/file/8d2036d4b924d60780d40.png" alt="AK">]
+<hr size="3" noshade color="red//">
 <body>
     <ul>
         <li>Hi i am Anshul a leaner from India🪷</li>
