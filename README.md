@@ -8,7 +8,7 @@
 <hr size="3" noshade color="red//">
 <body>
     <ul>
-        <li>Hi i am Anshul a leaner from India🪷</li>
+        <li>Hi i am Anshul a learner from India🪷</li>
         <li>i love maths and coding❤️‍🔥</li>
         <li>tg = <a href="https://telegram.me/Xanshul">Anshul tg</a></li>
         <li>Drop you query i will reply soon as possible🐸
